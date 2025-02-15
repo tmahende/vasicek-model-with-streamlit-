@@ -1,0 +1,10 @@
+steps to run the file
+
+
+1)save the py file in required folder
+
+
+2)open Jupiter lab -> open terminal -> set path ->
+
+3) use this command to run
+    streamlit run filename.py
